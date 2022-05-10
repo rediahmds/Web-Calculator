@@ -2,3 +2,15 @@
     font-family: 'Nunito', sans-serif;
     box-sizing: border-box;
 }
+
+.flex-container-col {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    text-align: right;
+    margin: 0 auto;
+}
+
+.flex-container-row {
+    display: flex;
+}
