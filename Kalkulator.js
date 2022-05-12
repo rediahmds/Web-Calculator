@@ -1,0 +1,1 @@
+console.log("Selamat! Anda berhasil membuat berkas JavaScript")
