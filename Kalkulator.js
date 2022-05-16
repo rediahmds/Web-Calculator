@@ -1,1 +1,1 @@
-console.log("Selamat! Anda berhasil membuat berkas JavaScript")
+console.log("Web Calculator by Dicoding");
