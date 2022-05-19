@@ -55,6 +55,7 @@
     font-weight: bold;
 }
 
+/* Layar dengan ukuran di bawah 513p akan menggunakan style ini */
 @media screen and (max-width: 513px) {
     .button {
         padding: 10px;
