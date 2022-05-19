@@ -70,6 +70,9 @@ function performCalculation() {
         operator: calculator.operator,
         result: result
     }
+    putHIstory(history);
+    calculator.displayNumber = result;
+    renderHistory();
 }
 
 const buttons = document.querySelectorAll(".button");
